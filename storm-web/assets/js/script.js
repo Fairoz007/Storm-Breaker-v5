@@ -187,6 +187,19 @@ $(document).ready(function(){
                 }
             }
             
+            // Setup click handlers after links are generated
+            $(".cp-btn").off('click').on('click', function(){
+                var node = $(this).attr('data-link') || $(this).parent().get(0).childNodes[0].textContent;
+                navigator.clipboard.writeText(node);
+                Swal.fire({
+                    icon: 'success',
+                    title: 'Link Copied!',
+                    html: '<p style="font-size: 0.9rem; word-break: break-all;">' + node + '</p>',
+                    showConfirmButton: true,
+                    timer: 3000
+                });
+            });
+            
             // Update stats after links are loaded (for V4/V5)
             if (typeof updateStats === 'function') {
                 updateStats();
@@ -195,20 +208,6 @@ $(document).ready(function(){
     });
 
     setTimeout(function(){
-
-        $(".cp-btn").click(function(){
-            var node = $(this).attr('data-link') || $(this).parent().get(0).childNodes[0].textContent
-            navigator.clipboard.writeText(node);
-            Swal.fire({
-                icon: 'success',
-                title: 'Link Copied!',
-                html: '<p style="font-size: 0.9rem; word-break: break-all;">' + node + '</p>',
-                showConfirmButton: true
-                })
-            
-            })
-
-
 
             timer = setInterval(Listener,2000)
 
