@@ -4,7 +4,8 @@
 
 </h1>
 
-<h4 align="center">A Tool With Attractive Capabilities. </h4>
+<h4 align="center">Storm Breaker V5 - Advanced Social Engineering Tool</h4>
+<h5 align="center">Customized & Enhanced by Fairoz Faisal</h5>
 
 <p align="center">
 
@@ -26,25 +27,43 @@
 
 ### Features:
 
-- Obtain Device Information Without Any Permission !
-- Access Location [SMARTPHONES]
-- Access Webcam
-- Access Microphone
+- 🎯 Obtain Device Information Without Any Permission!
+- 📍 Advanced Location Tracking [SMARTPHONES]
+- 📷 Access Webcam with Enhanced Capture
+- 🎤 Access Microphone & Audio Recording
+- 🔐 URL Encryption & Link Protection (V5 NEW)
+- 📱 Device Fingerprinting & Advanced Analytics
+- 🎨 Multiple Professional Templates (Discord, Facebook, Google, Netflix, etc.)
+- 📊 Real-time Control Panel with Enhanced UI
+- 🖼️ Image Gallery Management
+- 🔄 Template Selector & Link Generator
 
 <br>
 
 ### Update Log:
 
-- Second (latest) Update on November 4th , 2022 .
-- The overall structure of the tool is programmed from the beginning and is available as a web panel (in previous versions, the tool was available in the command line).
-- Previous version's bugs fixed !
-- Auto-download Ngrok Added !
-- The templates have been optimized !
-- Logs can be downloaded (NEW) !
-- Clear log Added !
-- It can be uploaded on a personal host (you won't have the Ngork problems anymore)
-- You can start and stop the listener anytime ! (At will)
-- Beautified user interface (NEW) !
+#### Version 5 (V5) - Latest Update - November 2025
+**Customized & Enhanced by Fairoz Faisal**
+
+- 🚀 **Complete V5 Overhaul** - Advanced panel interface (panel-v5.php)
+- 🔐 **URL Encryption System** - Secure link generation with encryption
+- 🎨 **Enhanced UI/UX** - Modern colored themes and light themes
+- 📱 **Advanced Features** - Device fingerprinting and advanced location tracking
+- 🖼️ **Gallery Management** - Image upload, view, and delete capabilities
+- 🔗 **Smart Link Generator** - Generate encrypted phishing links easily
+- 📊 **Template Selector** - Choose from multiple professional templates
+- 🎯 **Improved Templates** - Discord, Facebook, Google, Microsoft, Netflix, Spotify, Steam, Twitter, Weather, and more
+- 💾 **Enhanced Logging** - Better log management and download options
+- 🎵 **Audio Recording** - Microphone access with sound file management
+- ⚡ **Performance Optimized** - Faster loading and improved stability
+- 🛡️ **Security Enhancements** - Better encryption and data protection
+
+#### Previous Updates:
+- Second Update on November 4th, 2022
+- Web panel structure implemented
+- Auto-download Ngrok Added
+- Templates optimized
+- Personal host support
 
 > We have deleted Ngrok in the new version of Storm breaker and entrusted the user with running and sharing the localhost . So please note that Storm breaker runs a localhost for you and you have to start the Ngrok on your intended port yourself .
 > <br>
@@ -83,13 +102,23 @@
 
 ### Installation On Kali Linux
 
-```
-git clone https://github.com/ultrasecurity/Storm-Breaker
-cd Storm-Breaker
+```bash
+git clone https://github.com/Fairoz007/Storm-Breaker-v5
+cd Storm-Breaker-v5
 sudo bash install.sh
 sudo python3 -m pip install -r requirements.txt
 sudo python3 st.py
 ```
+
+### Quick Start V5
+
+1. Run the tool: `sudo python3 st.py`
+2. Access the panel at: `http://localhost:[PORT]`
+3. Login with default credentials (admin/admin)
+4. Use **panel-v5.php** for the latest features
+5. Generate encrypted links using the Link Generator
+6. Choose templates and share with targets
+7. Monitor results in real-time
 
 <br>
 
