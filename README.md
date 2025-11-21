@@ -23,6 +23,118 @@
 
 </p>
 
+---
+
+<div align="center">
+
+# 🚨 ⚠️ CRITICAL DISCLAIMER ⚠️ 🚨
+
+</div>
+
+<div align="center">
+
+### 🔴 EDUCATIONAL PURPOSE ONLY 🔴
+
+</div>
+
+> **⚡ WARNING: This tool is strictly for educational, research, and authorized security testing purposes ONLY! ⚡**
+
+---
+
+<div align="center">
+
+## 🛑 IMPORTANT LEGAL NOTICE 🛑
+
+</div>
+
+### ❌ NO RESPONSIBILITY CLAUSE:
+
+<table>
+<tr>
+<td width="100%" bgcolor="#ffcccc">
+
+**The developer (Fairoz Faisal) is NOT responsible for:**
+
+- ❌ **ANY misuse of this tool**
+- ❌ **ANY damage caused by this tool**  
+- ❌ **ANY illegal activities conducted with this tool**
+- ❌ **ANY harm to individuals or organizations**
+- ❌ **ANY legal consequences resulting from its use**
+
+</td>
+</tr>
+</table>
+
+### ⚖️ USER RESPONSIBILITY:
+
+<table>
+<tr>
+<td width="100%" bgcolor="#fff4cc">
+
+**BY USING THIS TOOL, YOU ACKNOWLEDGE:**
+
+- ✋ **YOU are solely and entirely responsible for your actions**
+- ✋ **YOU accept all legal liability and consequences**
+- ✋ **YOU will use this only with explicit authorization**
+- ✋ **YOU understand unauthorized access is a criminal offense**
+- ✋ **YOU agree to comply with all applicable laws**
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🛡️ SAFETY & ETHICAL GUIDELINES:
+
+#### ✅ PERMITTED USES:
+- ✔️ Educational learning and research
+- ✔️ Authorized penetration testing with written permission
+- ✔️ Security awareness training in controlled environments
+- ✔️ Testing on systems you personally own
+- ✔️ Academic cybersecurity studies
+
+#### ❌ PROHIBITED USES:
+- 🚫 Unauthorized access to any system
+- 🚫 Malicious attacks or data theft
+- 🚫 Privacy invasion or harassment
+- 🚫 Corporate espionage or sabotage
+- 🚫 Any illegal or unethical activities
+
+---
+
+<div align="center">
+
+### ⚠️ LEGAL WARNING ⚠️
+
+**Unauthorized access to computer systems is a serious crime under laws including:**
+- Computer Fraud and Abuse Act (CFAA) - USA
+- Computer Misuse Act - UK
+- Cybercrime laws in your jurisdiction
+
+**Penalties may include heavy fines and imprisonment!**
+
+</div>
+
+---
+
+<div align="center">
+
+## 📜 FINAL AGREEMENT 📜
+
+**By downloading, installing, or using Storm Breaker V5, you explicitly agree that:**
+
+🔐 You will use this tool responsibly and ethically  
+🔐 You accept full legal responsibility for all your actions  
+🔐 The developer bears zero liability for your conduct  
+🔐 You will never use this for unauthorized or illegal purposes  
+
+### If you do not agree, DO NOT USE this tool!
+
+</div>
+
+---
+
 ![demo](.imgs/screen1.jpeg)
 
 ### Features:
